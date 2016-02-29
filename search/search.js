@@ -30,7 +30,7 @@ while (true) {
     input = input.toLowerCase();
 
     if (input === 'quit') {
-        document.write("<h2>Closing the document</h2>");
+        document.write("<h2>Closing the application</h2>");
         break;
     }
     else if (input === "") {
